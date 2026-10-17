@@ -40,14 +40,14 @@ This project follows the **CRISP-DM** framework:
 
 | Phase | Status |
 |---|---|
-| 1. Data Cleaning | 🔄 In Progress |
-| 2. Exploratory Data Analysis | ⏳ Pending |
-| 3. Model Building | ⏳ Pending |
-| 4. SHAP Explainability | ⏳ Pending |
+| 1. Data Cleaning | ✔️ Completed |
+| 2. Exploratory Data Analysis | ✔️ Completed |
+| 3. Model Building | ✔️ completed |
+| 4. SHAP Explainability | ✔️ completed |
 | 5. Streamlit Deployment | ⏳ Pending |
 
 ## 🗂️ Project Structure
-chronicroisk-ke/
+chronicrisk-ke/
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
