@@ -3,7 +3,7 @@
 > A machine learning system for early chronic disease risk prediction among Kenyan adults — designed for community health workers across Kenya's 47 counties.
 
 ## Live Demo
-Access ChronicRisk KE here: [chronicroisk-ke.streamlit.app](https://chronicrisk-ke-nephffjh9yib4pmydeyzwu.streamlit.app)
+Access ChronicRisk KE here: [chronicrisk-ke.streamlit.app](https://chronicrisk-ke-nephffjh9yib4pmydeyzwu.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
