@@ -2,6 +2,9 @@
 
 > A machine learning system for early chronic disease risk prediction among Kenyan adults — designed for community health workers across Kenya's 47 counties.
 
+## Live Demo
+Access ChronicRisk KE here: [chronicroisk-ke.streamlit.app](https://chronicrisk-ke-nephffjh9yib4pmydeyzwu.streamlit.app)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Data](https://img.shields.io/badge/Data-KDHS%202022-green)
@@ -44,7 +47,7 @@ This project follows the **CRISP-DM** framework:
 | 2. Exploratory Data Analysis | ✔️ Completed |
 | 3. Model Building | ✔️ completed |
 | 4. SHAP Explainability | ✔️ completed |
-| 5. Streamlit Deployment | ⏳ Pending |
+| 5. Streamlit Deployment | ✔️ completed  |
 
 ## 🗂️ Project Structure
 chronicrisk-ke/
